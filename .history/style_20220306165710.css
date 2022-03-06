@@ -13,8 +13,15 @@ body {
     font-size: 20px;
 }
 
+body :active {
+    background-image: url(image/niebo.jpg);
+}
 .title {
     font-size: 30px;
+}
+
+.list {
+    
 }
 
 .menu li {

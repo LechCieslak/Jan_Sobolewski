@@ -13,8 +13,16 @@ body {
     font-size: 20px;
 }
 
+body :hover {
+    background-color: red;
+}
+
 .title {
     font-size: 30px;
+}
+
+.list {
+    
 }
 
 .menu li {

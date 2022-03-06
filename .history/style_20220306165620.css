@@ -13,8 +13,16 @@ body {
     font-size: 20px;
 }
 
+body :active {
+    background-image: url();
+}
+
 .title {
     font-size: 30px;
+}
+
+.list {
+    
 }
 
 .menu li {

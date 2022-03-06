@@ -5,16 +5,18 @@
 
 body {
     --tlo: #4c6458;
-    --text: #feda75;
+    --text: #e5e5e5;
     --ramka: #cecece;
     color: var(--text);
-    background-image: linear-gradient(#0069A1, #4CB5EE);
-    /* background-color:#0096e7; */
-    font-size: 20px;
+    background-color:#0096e7;
 }
 
 .title {
     font-size: 30px;
+}
+
+.list {
+    font-size: 20px;
 }
 
 .menu li {
@@ -71,7 +73,7 @@ body {
 @media (max-width: 576px) and (min-width: 321px) {
     body {
         /* style css - tel. pionowo */
-        font-size: 15px;
+        font-size: 10px;
 
     }
 
@@ -89,7 +91,7 @@ body {
 
 @media (max-width: 320px) {
     body {
-        font-size: 15px;
+        font-size: 10px;
         background-position-x: center;
         background-image: url("images/background_pion.jpg");
     }

@@ -13,8 +13,14 @@ body {
     font-size: 20px;
 }
 
+body :
+
 .title {
     font-size: 30px;
+}
+
+.list {
+    
 }
 
 .menu li {
